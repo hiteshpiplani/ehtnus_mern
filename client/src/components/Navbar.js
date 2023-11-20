@@ -91,7 +91,7 @@ const Navbar = () => {
             color={theme.palette.primary.main}
           >
             {/* <Link to="/" color="inherit"> */}
-              PostIt
+            (E)Gam-Zon
             {/* </Link> */}
           </Typography>
         </HorizontalStack>

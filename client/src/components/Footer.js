@@ -8,14 +8,7 @@ const Footer = () => {
     <Box pb={3}>
       <Card>
         <Typography variant="subtitle1">
-          Don't forget to star the{" "}
-          <a
-            href="https://github.com/ihtasham42/social-media-app"
-            target="_blank"
-          >
-            Repo
-          </a>
-          ! ⭐
+          Thank You For Watching!!!
         </Typography>
       </Card>
     </Box>
